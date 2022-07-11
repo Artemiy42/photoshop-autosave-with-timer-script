@@ -1,4 +1,6 @@
-﻿// Change this path to your path where you what to photoshop save opened files
+﻿#target photoshop
+
+// Change this path to your path where you what to photoshop save opened files
 var saveDirPath = "D:/Photoshop/Backup/";
 var documents = app.documents;
 var startDisplayDialogs = app.displayDialogs;
